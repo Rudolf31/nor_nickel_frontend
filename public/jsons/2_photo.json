@@ -1,0 +1,22 @@
+{
+    "page": 2,
+    "cameras": [
+        {
+            "id": 22,
+            "name": "512",
+            "contamination": 0.2,
+            "description": "Description 1",
+            "photo_url": "https://example.com/photo1.jpg",
+            "date": "2052-01-01 05:12:30"
+        },
+        {
+            "id": 32,
+            "name": "fdfwew",
+            "contamination": 0.1,
+            "description": "Description 2",
+            "photo_url": "https://example.com/photo2.jpg",
+            "date": "2014-01-01 00:00:00"
+        }
+    ],
+    "total_pages": 10
+}
